@@ -1,0 +1,19 @@
+C:\Users\me\Desktop\proServer\proServer\bin\Debug\proServer.exe.config
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.Form1.resources
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.Properties.Resources.resources
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.csproj.GenerateResource.Cache
+C:\Users\me\Desktop\proServer\proServer\bin\Debug\proServer.exe
+C:\Users\me\Desktop\proServer\proServer\bin\Debug\proServer.pdb
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.exe
+C:\Users\me\Desktop\proServer\proServer\obj\Debug\proServer.pdb
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\bin\Debug\proServer.exe.config
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\bin\Debug\proServer.exe
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\bin\Debug\proServer.pdb
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.csprojAssemblyReference.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.Form1.resources
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.Properties.Resources.resources
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.csproj.GenerateResource.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.csproj.CoreCompileInputs.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.exe
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proServer\proServer\obj\Debug\proServer.pdb

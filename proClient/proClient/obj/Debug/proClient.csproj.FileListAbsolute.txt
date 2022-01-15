@@ -1,0 +1,22 @@
+C:\Users\me\Desktop\proClient\proClient\bin\Debug\proClient.exe.config
+C:\Users\me\Desktop\proClient\proClient\bin\Debug\proClient.exe
+C:\Users\me\Desktop\proClient\proClient\bin\Debug\proClient.pdb
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.Properties.Resources.resources
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.csproj.GenerateResource.Cache
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.exe
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.pdb
+C:\Users\me\Desktop\proClient\proClient\obj\Debug\proClient.Form1.resources
+C:\Users\me\Desktop\university\أمن المعلومات\chat\proClient\proClient\bin\Debug\proClient.exe.config
+C:\Users\me\Desktop\university\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.exe
+C:\Users\me\Desktop\university\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.pdb
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\bin\Debug\proClient.exe.config
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\bin\Debug\proClient.exe
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\bin\Debug\proClient.pdb
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.csprojAssemblyReference.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.Form1.resources
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.Properties.Resources.resources
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.csproj.GenerateResource.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.csproj.CoreCompileInputs.cache
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.exe
+D:\university\University\السنة 4\الفصل الأول\أمن المعلومات\chat\proClient\proClient\obj\Debug\proClient.pdb
